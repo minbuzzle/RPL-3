@@ -10,4 +10,5 @@ Pengetahuan dan informasi terbuka menjadi kunci sukses setiap mahasiswa, namun s
 Solusi untuk masalah ini adalah dengan menyediakan forum sebagai sarana untuk mempermudah mahasiswa Institut Pertanian Bogor dalam memperoleh informasi, minat, dan kondisi tertentu dengan berdiskusi secara terbuka pada forum tersebut.
 ## Tujuan
 ## Ruang Lingkup
+Mahasiswa Institut Pertanian Bogor
 ## Deskripsi 
